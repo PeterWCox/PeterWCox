@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Peter, a full-stack React + dotnet developer with <b>4 years commercial experience</b>
+I'm Peter, a full-stack React + C# developer with <b>4 years commercial experience</b>
 
 * 🔭 I’m currently working on a personal portfolio to show off to employers
 * 🌱 I’m currently learning advanced NEXT.JS and ASP.NET Core features
