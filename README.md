@@ -7,16 +7,15 @@ I'm Peter and this account is a show case of stuff that I like working on
 * 📫 How to reach me p.cox@outlook.com
 
 ## Connect with me:
-<div style="display:flex;flex-direction:row">
+<p align="left" dir="auto" style="display:flex;flex-direction:row">
     <!-- LinkedIn -->
     <a href="https://stackoverflow.com/users/101874" rel="nofollow"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/900px-LinkedIn_logo_initials.png?20140125013055" alt="101874" height="30" width="30" style="max-width: 100%;"></a>
-    </div>
-<img >
+    </p>
 
 <!-- Languages and Tools: -->
 ## Languages and Tools:
 
-<div style="display:flex;flex-direction:row;gap:0.3rem; flex-wrap: wrap">
+<p align="left">
 
 <!-- ReactJS -->
 <a href="https://reactjs.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="max-width: 100%;"> </a>
@@ -45,4 +44,4 @@ I'm Peter and this account is a show case of stuff that I like working on
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"> </a>
 
 
-</div>
+</p>
