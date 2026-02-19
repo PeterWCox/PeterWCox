@@ -1,47 +1,31 @@
 ## Hi there 👋
 
-I'm Peter, a full-stack React + C# developer with <b>6 years commercial experience</b>
+I'm Peter, a full-stack React + ASP.NET Core (.NET) developer with <b>6 years commercial experience</b>
 
 * 🔭 I’m currently working on a personal portfolio to show off to employers
 * 🌱 I’m currently learning advanced NEXT.JS and ASP.NET Core features
 * 📫 How to reach me p.cox@outlook.com
 
-## Connect with me:
-<p align="left" dir="auto" style="display:flex;flex-direction:row">
-    <!-- LinkedIn -->
-    <a href="https://stackoverflow.com/users/101874" rel="nofollow"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/900px-LinkedIn_logo_initials.png?20140125013055" alt="101874" height="30" width="30" style="max-width: 100%;"></a>
-    </p>
+---
 
-<!-- Languages and Tools: -->
-## Languages and Tools:
+## 🔨 What I'm building
 
-<p align="left">
+**SideQuest** — a fullstack job-tracking platform I designed and built during a career sabbatical. It tackles a real pain point: scrolling through endless LinkedIn (and other) job descriptions to see if a role matches your stack.
 
-<!-- ReactJS -->
-<a href="https://reactjs.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="max-width: 100%;"> </a>
+* **The product:** A Chrome extension captures job postings from LinkedIn, Indeed, Reed, and CV Library; the app uses **AI (OpenAI)** to summarise each listing into structured tech stack, skills, pay, and contract details so you can scan quickly.
+* **The stack:** .NET 8 backend (ASP.NET Core, Vertical Slice / CQRS with MediatR, DDD, Transactional Outbox, PostgreSQL, EF Core, JWT + OAuth, **SignalR**), **React 19** SPA (TanStack Router & Query, Radix UI, Tailwind CSS 4, Framer Motion, Storybook), Chrome extension (content scripts + server-side parsing with **AngleSharp**), and a static marketing site (TanStack Start).
+* **What I learned:** Modern .NET (async, event-driven, DDD, CQRS), AI integration at scale (prompt pipelines, token billing with Stripe), building Chrome extensions and cross-site scraping, and owning the full lifecycle from UX and frontend through backend, payments, and deployment.
 
-<!-- NextJS -->
-<a href="https://nextjs.org/" rel="nofollow"> <img src="https://camo.githubusercontent.com/3aa42ee93eafa8f736bac662e8ca536350dad790ba36f2f0cb1783aa2be42f6d/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f6e6578746a732d322e737667" alt="nextjs" width="40" height="40" data-canonical-src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" style="max-width: 100%;"> </a>
+---
 
-<!-- TypeScript -->
-<a href="https://www.typescriptlang.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="max-width: 100%;"> </a>
+## Languages and tools
 
-<!-- C# -->
-<a href="https://www.w3schools.com/cs/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" style="max-width: 100%;"> </a>
-
-
-<!-- Cypress E2E -->
-<a href="https://www.cypress.io" rel="nofollow"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40" style="max-width: 100%;"> </a>
-
-
-<!-- HTML5 -->
-<a href="https://www.w3.org/html/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;"> </a>
-
-<!-- CSS3 -->
-<a href="https://www.w3schools.com/css/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%;"> </a>
-
-<!-- JS -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"> </a>
-
-
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
+  <a href="https://dotnet.microsoft.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="40" height="40" /></a>
+  <a href="https://reactjs.org/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" /></a>
+  <a href="https://azure.microsoft.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="Azure" width="40" height="40" /></a>
+  <a href="https://nextjs.org/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" /></a>
+  <a href="https://www.typescriptlang.org/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" /></a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" /></a>
+  <a href="https://www.w3schools.com/css/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" /></a>
 </p>
