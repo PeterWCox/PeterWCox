@@ -1,31 +1,35 @@
-## Hi there 👋
+# Peter Cox
 
-I'm Peter, a full-stack React + ASP.NET Core (.NET) developer with <b>6 years commercial experience</b>
+**Senior .NET & React Developer · C# · TypeScript · Azure**
 
-* 🔭 I’m currently working on a personal portfolio to show off to employers
-* 🌱 I’m currently learning advanced NEXT.JS and ASP.NET Core features
-* 📫 How to reach me p.cox@outlook.com
+I build full-stack products, API integrations and AI-powered features with ASP.NET Core, React and Azure. My work spans commercial RegTech platforms and independently developed products, from product design and data modelling through deployment and production support.
 
----
+## What I bring
 
-## Languages and tools
+- **Full-stack delivery:** C#, ASP.NET Core, React, TypeScript, REST APIs, EF Core and PostgreSQL.
+- **Cloud and integration work:** Azure Functions, Service Bus, Microsoft Graph, Gmail, Stripe and third-party identity and compliance services.
+- **Applied AI:** Azure OpenAI, retrieval-augmented generation (RAG), document processing and structured extraction.
+- **Production ownership:** automated testing, Azure DevOps CI/CD, Terraform/Bicep, troubleshooting and ongoing product improvements.
 
-<p align="left" style="display: flex; flex-wrap: nowrap; gap: 6px; align-items: center;">
-  <a href="https://dotnet.microsoft.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="40" height="40" /></a>
-  <a href="https://reactjs.org/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" /></a>
-  <a href="https://azure.microsoft.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="Azure" width="40" height="40" /></a>
-  <a href="https://nextjs.org/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" /></a>
-  <a href="https://www.typescriptlang.org/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" /></a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" /></a>
-  <a href="https://www.w3schools.com/css/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" /></a>
-</p>
+## Selected work
 
----
+| Product | What I built |
+| --- | --- |
+| **AnyRoad** | A travel organiser that extracts bookings from emails and attachments into a unified itinerary. Built with .NET, React, PostgreSQL, Azure OpenAI, Document Intelligence and asynchronous import processing. |
+| **Shortlist** | CV and vacancy analysis with document-backed candidate rankings, helping recruiters assess fit against role requirements. |
+| **PokerTracker** | A mobile-focused, offline-capable tracker for live poker sessions and bankroll management. |
+| **[CleanIn](https://github.com/PeterWCox/CleanIn)** | A Chrome extension that filters unwanted LinkedIn feed content, with configurable controls in a side panel. |
 
-## 🔨 What I'm building
+Most of my current product source code is private. CleanIn is a public example of my browser-extension work.
 
-**SideQuest** — a fullstack job-tracking platform I designed and built during a career sabbatical. It tackles a real pain point: scrolling through endless LinkedIn (and other) job descriptions to see if a role matches your stack.
+## Commercial experience
 
-* **The product:** A Chrome extension captures job postings from LinkedIn, Indeed, Reed, and CV Library; the app uses **AI (OpenAI)** to summarise each listing into structured tech stack, skills, pay, and contract details so you can scan quickly.
-* **The stack:** .NET 8 backend (ASP.NET Core, Vertical Slice / CQRS with MediatR, DDD, Transactional Outbox, PostgreSQL, EF Core, JWT + OAuth, **SignalR**), **React 19** SPA (TanStack Router & Query, Radix UI, Tailwind CSS 4, Framer Motion, Storybook), Chrome extension (content scripts + server-side parsing with **AngleSharp**), and a static marketing site (TanStack Start).
-* **What I learned:** Modern .NET (async, event-driven, DDD, CQRS), AI integration at scale (prompt pipelines, token billing with Stripe), building Chrome extensions and cross-site scraping, and owning the full lifecycle from UX and frontend through backend, payments, and deployment.
+At **Leo RegTech**, I delivered features and integrations across an ASP.NET Core, React and Azure platform, including Skillcast LMS, Yoti identity verification and Pascal background checks. I also worked with an AI Engineer on Policy Writer, Financial Promotion Reviewer and RFP Generator features using Azure OpenAI, RAG and FastAPI.
+
+Through **CoxCode**, I build products and deliver client consulting across .NET, React, cloud infrastructure and API integrations.
+
+## Get in touch
+
+Open to senior and lead full-stack roles: permanent remote opportunities that allow working from the EU, and short-term UK-based contracts.
+
+[LinkedIn](https://www.linkedin.com/in/peter-w-cox/) · [Email](mailto:p.cox@outlook.com)
